@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Gravidinhas</string>
+    <string name="mainTxt">Seja Bem Vinda Mãe</string>
+    <string name="slogan">Uma nova maneira de aprender</string>
+
+    <string name="equipe"> Informações Equipe</string>
+
+    <!--   *******************   -->
+
+    <string name="intro_equipe"> Gravidinhas Apllication BETA</string>
+
+    <string name="equipe1">© 2022 Gravidinhas BG</string>
+
+    <string name="equipe2"> Agradecemos as mães, pelas correções e ensinamentos que nos permitiram apresentar um melhor
+        desempenho no processo de formação da aplicação ao longo do bimestre.</string>
+
+    <string name="help"> Encontrou algum problema?  Ajude-nos a repará-lo:</string>
+
+    <string name="equipe3"> Este app utiliza:</string>
+
+    <string name="equipe4"> Android Studio</string>
+
+    <string name="equipe5"> Linguagem de programação JAVA</string>
+
+    <string name="cadastromsg">Não tem login? Cadastre-se</string>
+
+    <string name="checkText"> Lembrar de mim </string>
+
+    <string name="local"> Sede Gravidinhas Enterprises </string>
+
+    <string name="Buscar"> Buscar </string>
+
+    <string name="txt1three">7 dicas para pais de primeira viagem</string>
+
+    <string name="txt2three">1 – Se mama no peito, há menos arroto: em geral, bebês que não usam a mamadeira ingerem menos ar, arrotando menos.
+
+2 – Quando dormir? – Pode ser paradoxal, mas é real na maioria dos lares: quanto mais sono tem um bebê, maior a sua dificuldade para dormir. Ou seja, é melhor fazê-lo dormir aos primeiros indícios de que está com sono.</string>
+
+    <string name="txt1six">Dicas para simplificar a introdução alimentar</string>
+
+    <string name="txt2six">1) Transforme o momento da comida em algo positivo e divertido. Quanto mais tranquilidade o bebê tiver nessa fase, mais fácil será para toda a família.
+
+2) Comece sempre pelas frutas mais doces. Posteriormente, vá avançando para as mais azedas. Há tendência de que o bebê aceite melhor esses alimentos inicialmente. Evite dar as cascas de maçãs e outros alimentos aos bebês. Por terem mais fibras, elas podem soltar o intestino.</string>
+
+    <string name="txt1year">Como lidar com o bebê com cólica
+Não existe tratamento totalmente eficaz para evitar as cólicas. Mas há dicas que podem ser dadas aos pais e mães para auxiliar a encarar a situação e dar um pouco mais de conforto aos bebês</string>
+
+    <string name="txt2year">1. Massagem – Pense quando você está com um mal-estar relacionado a gases. Uma massagem alivia, certo? O mesmo vale para os bebês. Movimentos circulares, com um óleo infantil ou creme hidratante ajudam a reduzir os sintomas.
+
+2. Bolsa aquecida – Uma bolsa de água quente auxilia a diminuir a cólica. É importante ter cuidado com a temperatura para evitar queimaduras.“Um pouco de pressão e de calor que a gente faça na barriga deles, em geral, atenua a cólica e relaxa as contrações intestinais. Isso é a melhor coisa que podemos fazer”, conta a pediatra Ana Escobar.</string>
+
+    <!--GeoLoc-->
+    <string name="editar">Editar</string>
+    <string name="endereco">"Endereço: %1$s  \n \n Horário: %4$tr"</string>
+    <string name="loading">Carregando…</string>
+    <string name="parar_busca">PARAR BUSCA</string>
+    <string name="iniciar_busca">INICIAR</string>
+    <string name="permissao_recusada">Permissão negada, autorize a aplicação </string>
+    <string name="sem_localizacao">Localização Indisponível</string>
+    <string name="hint_busca">Clique para iniciar a busca</string>
+    <string name="sem_endereco">Endereço indisponível</string>
+    <string name="coordenada_invalida">Coordenadas inválidas</string>
+    <string name="servico_indisponivel">Esse serviço está indisponível</string>
+
+    <string name="textLumi"> Compare o valor do nosso sensor com a tabela e assim veja se o seu brilho está correto </string>
+
+</resources>
